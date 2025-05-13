@@ -8,8 +8,6 @@ A simple C++ implementation of the SHA-1 (Secure Hash Algorithm 1). This project
 
 ## Output Instance
 
-### Input: "Hello, World!"
-
 ![Example Output](images/output.png)
 
 ## Features
