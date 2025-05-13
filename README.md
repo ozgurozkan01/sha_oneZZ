@@ -6,6 +6,12 @@ A simple C++ implementation of the SHA-1 (Secure Hash Algorithm 1). This project
 
 **SHA-1 is considered cryptographically insecure and should not be used for new security-sensitive applications.** Collisions have been demonstrated, meaning different inputs can produce the same hash. This implementation is for learning and demonstration purposes only. For new projects requiring secure hashing, please use SHA-256, SHA-3, or other modern, secure algorithms.
 
+## Output Instance
+
+### Input: "Hello, World!"
+
+![Example Output](images/output.png)
+
 ## Features
 
 *   **Message Padding:** Implements the standard SHA-1 padding scheme.
